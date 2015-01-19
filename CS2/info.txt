@@ -1,0 +1,9 @@
+Barney Rubble 56 3.4567 Year One
+Fred Flintstone 60 2.38475 The Land Before Time
+Wall E 125 4.99999 A Space Odyssey
+Anastasia Nicholaevna 89 3.9 From Russia with Love
+Jefferson Airplane 63 1.89 Woodstock
+John Doe 5 0.0357 The Lego Movie
+Baldasarre Smith 1 1.2345 Three Men and a Baby
+Vivienne Leigh 99 2.40 Gone with the Wind
+Ike Min 19 3.7712 Guardians of the Galaxy
